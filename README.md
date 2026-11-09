@@ -1,6 +1,6 @@
 ## Igriscodes
 
-![Igris](https://i.pinimg.com/originals/44/0e/66/440e66921c64111ff908f7a08f6c4271.gif)
+<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/ffec5ad8-79e7-423c-a25f-47c0e25f43ab" />
 
 _Even the most gifted swordsman is worthless if he refuses to draw his blade._
 
